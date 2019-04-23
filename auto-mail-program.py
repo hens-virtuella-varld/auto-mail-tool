@@ -3,7 +3,7 @@ import smtplib
 from email.mime.text import MIMEText
 
 gmail_user = 'your-gmail-id@gmail.com'  # Type your gmail ID
-gmail_password = 'your-password'  # Type your gmail password
+gmail_password = 'your-gmail-password'  # Type your gmail password
 
 with open('mail-content.txt') as txtfile:
     content = txtfile.read()
