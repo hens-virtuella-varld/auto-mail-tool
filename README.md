@@ -2,7 +2,7 @@
 
 A Python open source project can send the same mail to multiple receivers one by one.
 
-This project's purpose was because I needed to ask some strangers for the same help, and I didn't want to repeat the action for copy and paste of the email addresses, and the same subject and content.
+A tool that assists the sending of mass emails. This is useful for example when sending announcements in conferences and so on.
 
 If you want to customize the mail's subject and content for each receivers, feel free to PR.
 
